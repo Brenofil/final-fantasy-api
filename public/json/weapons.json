@@ -1,0 +1,873 @@
+{
+  "items": [
+    {
+      "name": "Iron-forged Blade",
+      "content": [
+        "Iron Sword"
+      ],
+      "required": [
+        "Iron Scraps × 3",
+        "Foul Flesh × 2",
+        "Earth Stone × 3"
+      ],
+      "price": 1080
+    },
+    {
+      "name": "Crimson Blade",
+      "content": [
+        "Blood Sword"
+      ],
+      "required": [
+        "Solid Stone × 2",
+        "Glass Jewel × 2",
+        "Dark Stone × 5"
+      ],
+      "price": 4500
+    },
+    {
+      "name": "Burning Blade",
+      "content": [
+        "Flametongue"
+      ],
+      "required": [
+        "Lumber x 2",
+        "Marlboro Vine x 2",
+        "Fire Stone x 6"
+      ],
+      "price": 4680
+    },
+    {
+      "name": "Warped Blade",
+      "content": [
+        "Diamond Sword"
+      ],
+      "required": [
+        "Maggoty Flesh × 4",
+        "Bundle of Feathers × 6",
+        "Fire Magicite × 7"
+      ],
+      "price": 11250
+    },
+    {
+      "name": "Attenuated Greatsword",
+      "content": [
+        "Save the Queen"
+      ],
+      "required": [
+        "Sky Jewel × 7",
+        "Quality Stone × 4",
+        "Holy Crystal × 10"
+      ],
+      "price": 14000
+    },
+    {
+      "name": "The Leering Blade",
+      "content": [
+        "Deathbringer"
+      ],
+      "required": [
+        "Solid Horn × 4",
+        "Demon Tail × 7",
+        "Dark Crystal × 10"
+      ],
+      "price": 14800
+    },
+    {
+      "name": "Darksteel Blade",
+      "content": [
+        "Stoneblade"
+      ],
+      "required": [
+        "Orichalcum × 2",
+        "Chimera Head × 2",
+        "Taurus Gem × 3"
+      ],
+      "price": 17800
+    },
+    {
+      "name": "Well-forged Blade",
+      "content": [
+        "Durandal"
+      ],
+      "required": [
+        "Leshach Halcyon x 1",
+        "Emperor Scales × 2",
+        "Lifewick × 3"
+      ],
+      "price": 21600
+    },
+    {
+      "name": "Ultimate Blade",
+      "content": [
+        "Ultima Blade"
+      ],
+      "required": [
+        "Gnoma Halcyon x 1",
+        "Death Powder × 2",
+        "Adamantite × 2"
+      ],
+      "price": 22800
+    },
+    {
+      "name": "The Sunflower",
+      "content": [
+        "Tournesol"
+      ],
+      "required": [
+        "Gemsteel × 3",
+        "Serpentarius × 3",
+        "Empyreal Soul × 3"
+      ],
+      "price": 600000
+    },
+    {
+      "name": "Dragon Crest",
+      "content": [
+        "Wyrmhero Blade"
+      ],
+      "required": [
+        "Godslayer’s Badge × 1",
+        "Omega Badge × 1",
+        "Lu Shang’s Badge × 1"
+      ],
+      "price": 65535
+    },
+    {
+      "name": "Jag-tooth Ninja Sword",
+      "content": [
+        "Kagenui"
+      ],
+      "required": [
+        "Giant Feather × 5",
+        "Festering Flesh × 4",
+        "Dark Magicite × 5"
+      ],
+      "price": 9000
+    },
+    {
+      "name": "Samurai’s Katana",
+      "content": [
+        "Ame-no-Murakumo"
+      ],
+      "required": [
+        "Iron Ore × 5",
+        "Screamroot × 7",
+        "Water Crystal × 9"
+      ],
+      "price": 13800
+    },
+    {
+      "name": "Serpent Blade",
+      "content": [
+        "Orochi"
+      ],
+      "required": [
+        "Cancer Gem × 3",
+        "Sickle-Blade × 2",
+        "Coeurl Whisker × 2"
+      ],
+      "price": 15200
+    },
+    {
+      "name": "Master-crafted Blade",
+      "content": [
+        "Masamune"
+      ],
+      "required": [
+        "Gemsteel × 2",
+        "Orichalcum × 3",
+        "Mallet × 2"
+      ],
+      "price": 35000
+    },
+    {
+      "name": "Light Spear",
+      "content": [
+        "Javelin"
+      ],
+      "required": [
+        "Horn × 2",
+        "Foul Flesh × 2",
+        "Wind Stone × 3"
+      ],
+      "price": 1980
+    },
+    {
+      "name": "Forked Spear",
+      "content": [
+        "Trident"
+      ],
+      "required": [
+        "Pointed Horn × 4",
+        "Maggoty Flesh × 5",
+        "Wind Magicite x 6"
+      ],
+      "price": 11250
+    },
+    {
+      "name": "Engraved Spear",
+      "content": [
+        "Gungnir"
+      ],
+      "required": [
+        "Ketu Board × 2",
+        "Broken Spear × 2",
+        "Mystletainn × 2"
+      ],
+      "price": 15300
+    },
+    {
+      "name": "Wooden Pole",
+      "content": [
+        "Cypress Pole"
+      ],
+      "required": [
+        "Sturdy Bone x 5",
+        "Demon Eyeball x 3",
+        "Earth Stone x 4"
+      ],
+      "price": 1800
+    },
+    {
+      "name": "Iron-forged Pole",
+      "content": [
+        "Iron Pole"
+      ],
+      "required": [
+        "Sturdy Bone × 5",
+        "Demon Eyeball × 3",
+        "Fire Magicite × 4"
+      ],
+      "price": 4780
+    },
+    {
+      "name": "Elegant Pole",
+      "content": [
+        "Ivory Pole"
+      ],
+      "required": [
+        "Blood-darkened Bone × 8",
+        "Demon Feather × 6",
+        "Wind Crystal × 7"
+      ],
+      "price": 12150
+    },
+    {
+      "name": "Whisker of the Beast",
+      "content": [
+        "Whale Whisker"
+      ],
+      "required": [
+        "Aquarius Gem × 4",
+        "Corpse Fly × 3",
+        "Mythril × 3"
+      ],
+      "price": 60000
+    },
+    {
+      "name": "Double-bladed Knife",
+      "content": [
+        "Zwill Crossblade"
+      ],
+      "required": [
+        "Malboro Flower × 7",
+        "Windslicer Pinion × 5",
+        "Wind Crystal × 9"
+      ],
+      "price": 13800
+    },
+    {
+      "name": "Mystic Staff",
+      "content": [
+        "Cloud Staff"
+      ],
+      "required": [
+        "Demon Feather x 6",
+        "Quality Lumber x 4",
+        "Storm Crystal x 7"
+      ],
+      "price": 7200
+    },
+    {
+      "name": "Bow & Bodkin",
+      "content": [
+        "Parallel Arrow, Short Bow"
+      ],
+      "required": [
+        "Bat Fang x 1",
+        "Rat Pelt x 2",
+        "Dark Stone x 2"
+      ],
+      "price": 600
+    },
+    {
+      "name": "Arrows Alight",
+      "content": [
+        "Fiery Arrows, Longbow"
+      ],
+      "required": [
+        "Crooked Fang x 2",
+        "Fire Stone x 4"
+      ],
+      "price": 3800
+    },
+    {
+      "name": "Hollow-shaft Arrows",
+      "content": [
+        "Bamboo Arrow, Loxley Bow"
+      ],
+      "required": [
+        "Bat Fang × 5",
+        "Yellow Liquid x1",
+        "Water Magicite × 3"
+      ],
+      "price": 6280
+    },
+    {
+      "name": "Arrows of the Moon Goddess",
+      "content": [
+        "Artemis bow"
+      ],
+      "required": [
+        "Gemini Gem x 3",
+        "Vampyr Fang × 2",
+        "Dorsal Fin × 2"
+      ],
+      "price": 15800
+    },
+    {
+      "name": "Permafrost Bow & Quiver",
+      "content": [
+        "Perseus Bow, Ice Cloud Arrows"
+      ],
+      "required": [
+        "Antarctic Wind x 2",
+        "Spiral Incisor x 4",
+        "Ice Crystal x 7"
+      ],
+      "price": 17200
+    },
+    {
+      "name": "Silver Bow",
+      "content": [
+        "Sagittarius"
+      ],
+      "required": [
+        "Beastlord Horn x 3",
+        "Moon Ring x 3",
+        "Sagittarius Gem x 4"
+      ],
+      "price": 60000
+    },
+    {
+      "name": "Old Books",
+      "content": [
+        "Hunter’s Monograph × 1 (Beasts and Avions)"
+      ],
+      "required": [
+        "Finish the Thextera Mob Hunt, then talk to Gastly in the Muthru Bazaar"
+      ],
+      "price": 18000
+    },
+    {
+      "name": "Old Books",
+      "content": [
+        "Knight’s Monograph x 1 (Giants and Insects)"
+      ],
+      "required": [
+        "Talk to any weapons shop clerk 30 times"
+      ],
+      "price": 19000
+    },
+    {
+      "name": "Old Books",
+      "content": [
+        "Warmage’s Monograph × 1 (Amorphs and Undead)"
+      ],
+      "required": [
+        "Finish the Rogue Tomato Mob Hunt, then check the Mob Hunt board 20 times"
+      ],
+      "price": 20000
+    },
+    {
+      "name": "Old Books",
+      "content": [
+        "Mage’s Monograph × 1 (Fiends and Ichtians)"
+      ],
+      "required": [
+        "Talk to any magic shop clerk 25 times"
+      ],
+      "price": 21000
+    },
+    {
+      "name": "Old Books",
+      "content": [
+        "Dragoon’s Monograph × 1 (Dragons and Plants)"
+      ],
+      "required": [
+        "Finish the Rogue Tomato Mob Hunt, then check the Mob Hunt board 40 times"
+      ],
+      "price": 22000
+    },
+    {
+      "name": "Old Books",
+      "content": [
+        "Scholar’s Monograph × 1 (Constructs)"
+      ],
+      "required": [
+        "Talk to any armor shop clerk 15 times"
+      ],
+      "price": 22000
+    },
+    {
+      "name": "Old Books",
+      "content": [
+        "Sage’s Monograph × 1 (Elementals)"
+      ],
+      "required": [
+        "Talk to any shop clerk 100 times"
+      ],
+      "price": 25000
+    },
+    {
+      "name": "Morbid Urn",
+      "content": [
+        "Canopic Jar × 1"
+      ],
+      "required": [
+        "Horakhty’s Flame × 1",
+        "Phobos Glaze × 1",
+        "Deimos clay × 1"
+      ],
+      "price": 2500000
+    },
+    {
+      "name": "Unassuming Surcoat",
+      "content": [
+        "Chromed Leathers x 1"
+      ],
+      "required": [
+        "Wolf Pelt × 2",
+        "Earth Stone × 1"
+      ],
+      "price": 180
+    },
+    {
+      "name": "Gilt Shield",
+      "content": [
+        "Buckler x 1"
+      ],
+      "required": [
+        "Molting × 3",
+        "Fire Stone × 3"
+      ],
+      "price": 250
+    },
+    {
+      "name": "Assorted Leathers",
+      "content": [
+        "Leather Breastplate x 1",
+        "Leather Headgear × 1"
+      ],
+      "required": [
+        "Wolf Pelt × 2",
+        "Tanned Hide × 1",
+        "Dark Stone × 2"
+      ],
+      "price": 300
+    },
+    {
+      "name": "Traveler’s Garb",
+      "content": [
+        "Feathered Cap x 1",
+        "Traveler’s Vestment x 1"
+      ],
+      "required": [
+        "Braid Wool x 2",
+        "Tanned Hide x 2",
+        "Water Stone x 5"
+      ],
+      "price": 1890
+    },
+    {
+      "name": "Matching Reds",
+      "content": [
+        "Red Cap × 1",
+        "Brigandine × 1"
+      ],
+      "required": [
+        "Coeurl Pelt × 3",
+        "Quality Hide × 2",
+        "Dark Magicite × 3"
+      ],
+      "price": 2480
+    },
+    {
+      "name": "Monk’s Garb",
+      "content": [
+        "Headband × 1",
+        "Jujitsu Gi × 1"
+      ],
+      "required": [
+        "Coeurl Pelt × 4",
+        "Tyrant Hide × 1",
+        "Ice Magicite × 4"
+      ],
+      "price": 3180
+    },
+    {
+      "name": "Alluring Finery",
+      "content": [
+        "Lamia’s Tiara × 1",
+        "Enchanter’s Habit × 1"
+      ],
+      "required": [
+        "Fine Wool x 3",
+        "Tyrant Hide x 1",
+        "Ice Magicite x 4"
+      ],
+      "price": 3180
+    },
+    {
+      "name": "Golden Garb",
+      "content": [
+        "Gold Helm × 1",
+        "Gold Armor × 1",
+        "Gold Shield × 1"
+      ],
+      "required": [
+        "Iron Carapace x 3",
+        "Tanned Hide x 2",
+        "Dark Magicite x 3"
+      ],
+      "price": 3980
+    },
+    {
+      "name": "Ninja Garb",
+      "content": [
+        "Black Cowl × 1",
+        "Black Garb × 1"
+      ],
+      "required": [
+        "Fine Wool × 4",
+        "Tanned Tyrant Hide × 2",
+        "Fire Magicite × 5"
+      ],
+      "price": 4800
+    },
+    {
+      "name": "Burnished Protectives",
+      "content": [
+        "Burgonet × 1",
+        "Shielded Armor × 1",
+        "Ice Shield × 1"
+      ],
+      "required": [
+        "Wyrm Carapace × 2",
+        "Quality Hide × 2",
+        "Earth Magicite × 4"
+      ],
+      "price": 4850
+    },
+    {
+      "name": "Light, Sturdy Garb",
+      "content": [
+        "Adamant Hat × 1",
+        "Adaman Vest × 1"
+      ],
+      "required": [
+        "Coeurl Pelt× 6",
+        "Tanned Tyrant Hide × 2",
+        "Storm Magicite × 5"
+      ],
+      "price": 5800
+    },
+    {
+      "name": "Brilliant Shield",
+      "content": [
+        "Venetian Shield × 1"
+      ],
+      "required": [
+        "Ancient Turtle Shell × 2",
+        "Ring Wyrm Liver × 2",
+        "Undin Halcyon × 1"
+      ],
+      "price": 7500
+    },
+    {
+      "name": "Magepower Helm",
+      "content": [
+        "Magical Power Shishak × 1"
+      ],
+      "required": [
+        "Charger Barding × 5",
+        "Chimera Head × 2",
+        "Feystone × 1"
+      ],
+      "price": 7500
+    },
+    {
+      "name": "Forbidding Shield",
+      "content": [
+        "Demon Shield × 1"
+      ],
+      "required": [
+        "Aged Turtle Shell × 2",
+        "Destrier Barding × 8",
+        "Leamonde Halcyon × 1"
+      ],
+      "price": 7800
+    },
+    {
+      "name": "Emboldening Arms",
+      "content": [
+        "Chakra Band × 1",
+        "Power Vest × 1"
+      ],
+      "Required Material": [
+        "Quality Pelt × 6",
+        "Tanned Giantskin × 4",
+        "Fire Crystal × 3"
+      ],
+      "price": 7980
+    },
+    {
+      "name": "Sturdy Battle Gear",
+      "content": [
+        "Maximillian × 1"
+      ],
+      "required": [
+        "Charger Barding × 4",
+        "Split Armor × 2",
+        "Pisces Gem× 3"
+      ],
+      "price": 8000
+    },
+    {
+      "name": "Platinum Gear",
+      "content": [
+        "Platinum Helm × 1",
+        "Platinum Armor × 1",
+        "Platinum Shield × 1"
+      ],
+      "required": [
+        "Insect Husk x 2",
+        "Tanned Giantskin x 5",
+        "Storm Magicite x 6"
+      ],
+      "price": 9800
+    },
+    {
+      "name": "Black Vestments",
+      "content": [
+        "Black Mask × 1",
+        "Black Robe × 1"
+      ],
+      "required": [
+        "Blood Wool × 9",
+        "Prime Tanned Hide × 7",
+        "Dark Crystal × 8"
+      ],
+      "price": 12800
+    },
+    {
+      "name": "White Vestments",
+      "content": [
+        "White Mask × 1",
+        "White Robe × 1"
+      ],
+      "required": [
+        "Blood Wool× 9",
+        "Beastlord Hide × 7",
+        "Holy Crystal × 8"
+      ],
+      "price": 12800
+    },
+    {
+      "name": "Nature’s Armory",
+      "content": [
+        "Crown of Laurels x 1",
+        "Rubber Suit × 1"
+      ],
+      "required": [
+        "Prime Pelt × 9",
+        "Forbidden Flesh × 7",
+        "Fire Crystal × 8"
+      ],
+      "price": 13800
+    },
+    {
+      "name": "Gigas Gear",
+      "content": [
+        "Gigas Hat × 1",
+        "Gigas Chestplate x 1"
+      ],
+      "required": [
+        "Prime Pelt × 8",
+        "Prime Tanned Hide × 7",
+        "Dark Crystal × 7"
+      ],
+      "price": 17800
+    },
+    {
+      "name": "Feathered Boots",
+      "content": [
+        "Winged Boots x 1"
+      ],
+      "required": [
+        "Arctic Wind x 1"
+      ],
+      "price": 300
+    },
+    {
+      "name": "Ninja Footgear",
+      "content": [
+        "Gillie Boots x 1"
+      ],
+      "required": [
+        "Slaven Harness × 2"
+      ],
+      "price": 400
+    },
+    {
+      "name": "Shoes of the Dead",
+      "content": [
+        "Quasimodo Boots x 1"
+      ],
+      "required": [
+        "Zombie Powder × 1",
+        "Destrier Mane × 1"
+      ],
+      "price": 450
+    },
+    {
+      "name": "Back Harness",
+      "content": [
+        "Battle Harness × 1"
+      ],
+      "required": [
+        "Throat Wol Blood × 1"
+      ],
+      "price": 600
+    },
+    {
+      "name": "Blush of Light",
+      "content": [
+        "Firefly x 1"
+      ],
+      "required": [
+        "Tomato Stalk × 2",
+        "Magick Lamp × 1",
+        "Snowfly × 1"
+      ],
+      "price": 700
+    },
+    {
+      "name": "Large Gloves",
+      "content": [
+        "Blazer Gloves x 1"
+      ],
+      "required": [
+        "Bent Staff× 3"
+      ],
+      "price": 2000
+    },
+    {
+      "name": "Wing Cord",
+      "content": [
+        "Pheasant Netsuke × 1"
+      ],
+      "required": [
+        "Stardust × 2"
+      ],
+      "price": 2000
+    },
+    {
+      "name": "Brawler’s Fetish",
+      "content": [
+        "Amber Armlet x 1"
+      ],
+      "required": [
+        "Gimble Stalk × 2"
+      ],
+      "price": 3000
+    },
+    {
+      "name": "Gilt Phylactery",
+      "content": [
+        "Golden Amulet x 1"
+      ],
+      "required": [
+        "Tattered Garment × 1"
+      ],
+      "price": 3000
+    },
+    {
+      "name": "Shell-worked Collar",
+      "content": [
+        "Turtleshell Choker × 1"
+      ],
+      "required": [
+        "Bomb Shell × 2",
+        "Four-leaf Clover × 2"
+      ],
+      "price": 6000
+    },
+    {
+      "name": "Exquisite Ring",
+      "content": [
+        "Opal Ring × 1"
+      ],
+      "required": [
+        "Frogspawn × 2"
+      ],
+      "price": 7800
+    },
+    {
+      "name": "Chain-link Belt",
+      "content": [
+        "Bubble Belt × 1"
+      ],
+      "required": [
+        "Battlewyrm Carapace × 2",
+        "Adamantite × 1"
+      ],
+      "price": 17820
+    },
+    {
+      "name": "Wind Walker",
+      "content": [
+        "Hermes Sandals × 1"
+      ],
+      "required": [
+        "Gysahl Green x33",
+        "Arcana × 15"
+      ],
+      "price": 18000
+    },
+    {
+      "name": "Comfy Headgear",
+      "content": [
+        "Cat-ear Hood × 1"
+      ],
+      "required": [
+        "White Incense × 2",
+        "Einherjarium × 2",
+        "Virgo Gem x 7"
+      ],
+      "price": 25000
+    },
+    {
+      "name": "Cursed Necklace",
+      "content": [
+        "Nihopalaoa x 1"
+      ],
+      "required": [
+        "Blood-stained Necklace × 3",
+        "Death’s-Head × 2",
+        "Leo Gem × 3"
+      ],
+      "price": 28000
+    }
+  ]
+}

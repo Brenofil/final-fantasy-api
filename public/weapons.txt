@@ -1,0 +1,871 @@
+{
+  "item00": {
+    "name": "Iron-forged Blade",
+    "Accessory": [
+      "Iron Sword"
+    ],
+    "Required Materials": [
+      "Iron Scraps × 3",
+      "Foul Flesh × 2",
+      "Earth Stone × 3"
+    ],
+    "Price (gil)": 1080
+  },
+  "item01": {
+    "name": "Crimson Blade",
+    "Accessory": [
+      "Blood Sword"
+    ],
+    "Required Materials": [
+      "Solid Stone × 2",
+      "Glass Jewel × 2",
+      "Dark Stone × 5"
+    ],
+    "Price (gil)": 4500
+  },
+  "item02": {
+    "name": "Burning Blade",
+    "Accessory": [
+      "Flametongue"
+    ],
+    "Required Materials": [
+      "Lumber x 2",
+      "Marlboro Vine x 2",
+      "Fire Stone x 6"
+    ],
+    "Price (gil)": 4680
+  },
+  "item03": {
+    "name": "Warped Blade",
+    "Accessory": [
+      "Diamond Sword"
+    ],
+    "Required Materials": [
+      "Maggoty Flesh × 4",
+      "Bundle of Feathers × 6",
+      "Fire Magicite × 7"
+    ],
+    "Price (gil)": 11250
+  },
+  "item04": {
+    "name": "Attenuated Greatsword",
+    "Accessory": [
+      "Save the Queen"
+    ],
+    "Required Materials": [
+      "Sky Jewel × 7",
+      "Quality Stone × 4",
+      "Holy Crystal × 10"
+    ],
+    "Price (gil)": 14000
+  },
+  "item05": {
+    "name": "The Leering Blade",
+    "Accessory": [
+      "Deathbringer"
+    ],
+    "Required Materials": [
+      "Solid Horn × 4",
+      "Demon Tail × 7",
+      "Dark Crystal × 10"
+    ],
+    "Price (gil)": 14800
+  },
+  "item06": {
+    "name": "Darksteel Blade",
+    "Accessory": [
+      "Stoneblade"
+    ],
+    "Required Materials": [
+      "Orichalcum × 2",
+      "Chimera Head × 2",
+      "Taurus Gem × 3"
+    ],
+    "Price (gil)": 17800
+  },
+  "item07": {
+    "name": "Well-forged Blade",
+    "Accessory": [
+      "Durandal"
+    ],
+    "Required Materials": [
+      "Leshach Halcyon x 1",
+      "Emperor Scales × 2",
+      "Lifewick × 3"
+    ],
+    "Price (gil)": 21600
+  },
+  "item08": {
+    "name": "Ultimate Blade",
+    "Accessory": [
+      "Ultima Blade"
+    ],
+    "Required Materials": [
+      "Gnoma Halcyon x 1",
+      "Death Powder × 2",
+      "Adamantite × 2"
+    ],
+    "Price (gil)": 22800
+  },
+  "item09": {
+    "name": "The Sunflower",
+    "Accessory": [
+      "Tournesol"
+    ],
+    "Required Materials": [
+      "Gemsteel × 3",
+      "Serpentarius × 3",
+      "Empyreal Soul × 3"
+    ],
+    "Price (gil)": 600000
+  },
+  "item10": {
+    "name": "Dragon Crest",
+    "Accessory": [
+      "Wyrmhero Blade"
+    ],
+    "Required Materials": [
+      "Godslayer’s Badge × 1",
+      "Omega Badge × 1",
+      "Lu Shang’s Badge × 1"
+    ],
+    "Price (gil)": 65535
+  },
+  "item11": {
+    "name": "Jag-tooth Ninja Sword",
+    "Accessory": [
+      "Kagenui"
+    ],
+    "Required Materials": [
+      "Giant Feather × 5",
+      "Festering Flesh × 4",
+      "Dark Magicite × 5"
+    ],
+    "Price (gil)": 9000
+  },
+  "item12": {
+    "name": "Samurai’s Katana",
+    "Accessory": [
+      "Ame-no-Murakumo"
+    ],
+    "Required Materials": [
+      "Iron Ore × 5",
+      "Screamroot × 7",
+      "Water Crystal × 9"
+    ],
+    "Price (gil)": 13800
+  },
+  "item13": {
+    "name": "Serpent Blade",
+    "Accessory": [
+      "Orochi"
+    ],
+    "Required Materials": [
+      "Cancer Gem × 3",
+      "Sickle-Blade × 2",
+      "Coeurl Whisker × 2"
+    ],
+    "Price (gil)": 15200
+  },
+  "item14": {
+    "name": "Master-crafted Blade",
+    "Accessory": [
+      "Masamune"
+    ],
+    "Required Materials": [
+      "Gemsteel × 2",
+      "Orichalcum × 3",
+      "Mallet × 2"
+    ],
+    "Price (gil)": 35000
+  },
+  "item15": {
+    "name": "Light Spear",
+    "Accessory": [
+      "Javelin"
+    ],
+    "Required Materials": [
+      "Horn × 2",
+      "Foul Flesh × 2",
+      "Wind Stone × 3"
+    ],
+    "Price (gil)": 1980
+  },
+  "item16": {
+    "name": "Forked Spear",
+    "Accessory": [
+      "Trident"
+    ],
+    "Required Materials": [
+      "Pointed Horn × 4",
+      "Maggoty Flesh × 5",
+      "Wind Magicite x 6"
+    ],
+    "Price (gil)": 11250
+  },
+  "item17": {
+    "name": "Engraved Spear",
+    "Accessory": [
+      "Gungnir"
+    ],
+    "Required Materials": [
+      "Ketu Board × 2",
+      "Broken Spear × 2",
+      "Mystletainn × 2"
+    ],
+    "Price (gil)": 15300
+  },
+  "item18": {
+    "name": "Wooden Pole",
+    "Accessory": [
+      "Cypress Pole"
+    ],
+    "Required Materials": [
+      "Sturdy Bone x 5",
+      "Demon Eyeball x 3",
+      "Earth Stone x 4"
+    ],
+    "Price (gil)": 1800
+  },
+  "item19": {
+    "name": "Iron-forged Pole",
+    "Accessory": [
+      "Iron Pole"
+    ],
+    "Required Materials": [
+      "Sturdy Bone × 5",
+      "Demon Eyeball × 3",
+      "Fire Magicite × 4"
+    ],
+    "Price (gil)": 4780
+  },
+  "item20": {
+    "name": "Elegant Pole",
+    "Accessory": [
+      "Ivory Pole"
+    ],
+    "Required Materials": [
+      "Blood-darkened Bone × 8",
+      "Demon Feather × 6",
+      "Wind Crystal × 7"
+    ],
+    "Price (gil)": 12150
+  },
+  "item21": {
+    "name": "Whisker of the Beast",
+    "Accessory": [
+      "Whale Whisker"
+    ],
+    "Required Materials": [
+      "Aquarius Gem × 4",
+      "Corpse Fly × 3",
+      "Mythril × 3"
+    ],
+    "Price (gil)": 60000
+  },
+  "item22": {
+    "name": "Double-bladed Knife",
+    "Accessory": [
+      "Zwill Crossblade"
+    ],
+    "Required Materials": [
+      "Malboro Flower × 7",
+      "Windslicer Pinion × 5",
+      "Wind Crystal × 9"
+    ],
+    "Price (gil)": 13800
+  },
+  "item23": {
+    "name": "Mystic Staff",
+    "Accessory": [
+      "Cloud Staff"
+    ],
+    "Required Materials": [
+      "Demon Feather x 6",
+      "Quality Lumber x 4",
+      "Storm Crystal x 7"
+    ],
+    "Price (gil)": 7200
+  },
+  "item24": {
+    "name": "Bow & Bodkin",
+    "Accessory": [
+      "Parallel Arrow, Short Bow"
+    ],
+    "Required Materials": [
+      "Bat Fang x 1",
+      "Rat Pelt x 2",
+      "Dark Stone x 2"
+    ],
+    "Price (gil)": 600
+  },
+  "item25": {
+    "name": "Arrows Alight",
+    "Accessory": [
+      "Fiery Arrows, Longbow"
+    ],
+    "Required Materials": [
+      "Crooked Fang x 2",
+      "Fire Stone x 4"
+    ],
+    "Price (gil)": 3800
+  },
+  "item26": {
+    "name": "Hollow-shaft Arrows",
+    "Accessory": [
+      "Bamboo Arrow, Loxley Bow"
+    ],
+    "Required Materials": [
+      "Bat Fang × 5",
+      "Yellow Liquid x1",
+      "Water Magicite × 3"
+    ],
+    "Price (gil)": 6280
+  },
+  "item27": {
+    "name": "Arrows of the Moon Goddess",
+    "Accessory": [
+      "Artemis bow"
+    ],
+    "Required Materials": [
+      "Gemini Gem x 3",
+      "Vampyr Fang × 2",
+      "Dorsal Fin × 2"
+    ],
+    "Price (gil)": 15800
+  },
+  "item28": {
+    "name": "Permafrost Bow & Quiver",
+    "Accessory": [
+      "Perseus Bow, Ice Cloud Arrows"
+    ],
+    "Required Materials": [
+      "Antarctic Wind x 2",
+      "Spiral Incisor x 4",
+      "Ice Crystal x 7"
+    ],
+    "Price (gil)": 17200
+  },
+  "item29": {
+    "name": "Silver Bow",
+    "Accessory": [
+      "Sagittarius"
+    ],
+    "Required Materials": [
+      "Beastlord Horn x 3",
+      "Moon Ring x 3",
+      "Sagittarius Gem x 4"
+    ],
+    "Price (gil)": 60000
+  },
+  "item30": {
+    "name": "Old Books",
+    "Accessory": [
+      "Hunter’s Monograph × 1 (Beasts and Avions)"
+    ],
+    "Required Materials": [
+      "Finish the Thextera Mob Hunt, then talk to Gastly in the Muthru Bazaar"
+    ],
+    "Price (gil)": 18000
+  },
+  "item31": {
+    "name": "Old Books",
+    "Accessory": [
+      "Knight’s Monograph x 1 (Giants and Insects)"
+    ],
+    "Required Materials": [
+      "Talk to any weapons shop clerk 30 times"
+    ],
+    "Price (gil)": 19000
+  },
+  "item32": {
+    "name": "Old Books",
+    "Accessory": [
+      "Warmage’s Monograph × 1 (Amorphs and Undead)"
+    ],
+    "Required Materials": [
+      "Finish the Rogue Tomato Mob Hunt, then check the Mob Hunt board 20 times"
+    ],
+    "Price (gil)": 20000
+  },
+  "item33": {
+    "name": "Old Books",
+    "Accessory": [
+      "Mage’s Monograph × 1 (Fiends and Ichtians)"
+    ],
+    "Required Materials": [
+      "Talk to any magic shop clerk 25 times"
+    ],
+    "Price (gil)": 21000
+  },
+  "item34": {
+    "name": "Old Books",
+    "Accessory": [
+      "Dragoon’s Monograph × 1 (Dragons and Plants)"
+    ],
+    "Required Materials": [
+      "Finish the Rogue Tomato Mob Hunt, then check the Mob Hunt board 40 times"
+    ],
+    "Price (gil)": 22000
+  },
+  "item35": {
+    "name": "Old Books",
+    "Accessory": [
+      "Scholar’s Monograph × 1 (Constructs)"
+    ],
+    "Required Materials": [
+      "Talk to any armor shop clerk 15 times"
+    ],
+    "Price (gil)": 22000
+  },
+  "item36": {
+    "name": "Old Books",
+    "Accessory": [
+      "Sage’s Monograph × 1 (Elementals)"
+    ],
+    "Required Materials": [
+      "Talk to any shop clerk 100 times"
+    ],
+    "Price (gil)": 25000
+  },
+  "item37": {
+    "name": "Morbid Urn",
+    "Accessory": [
+      "Canopic Jar × 1"
+    ],
+    "Required Materials": [
+      "Horakhty’s Flame × 1",
+      "Phobos Glaze × 1",
+      "Deimos clay × 1"
+    ],
+    "Price (gil)": 2500000
+  },
+  "item38": {
+    "name": "Unassuming Surcoat",
+    "Accessory": [
+      "Chromed Leathers x 1"
+    ],
+    "Required Materials": [
+      "Wolf Pelt × 2",
+      "Earth Stone × 1"
+    ],
+    "Price (gil)": 180
+  },
+  "item39": {
+    "name": "Gilt Shield",
+    "Accessory": [
+      "Buckler x 1"
+    ],
+    "Required Materials": [
+      "Molting × 3",
+      "Fire Stone × 3"
+    ],
+    "Price (gil)": 250
+  },
+  "item40": {
+    "name": "Assorted Leathers",
+    "Accessory": [
+      "Leather Breastplate x 1",
+      "Leather Headgear × 1"
+    ],
+    "Required Materials": [
+      "Wolf Pelt × 2",
+      "Tanned Hide × 1",
+      "Dark Stone × 2"
+    ],
+    "Price (gil)": 300
+  },
+  "item41": {
+    "name": "Traveler’s Garb",
+    "Accessory": [
+      "Feathered Cap x 1",
+      "Traveler’s Vestment x 1"
+    ],
+    "Required Materials": [
+      "Braid Wool x 2",
+      "Tanned Hide x 2",
+      "Water Stone x 5"
+    ],
+    "Price (gil)": 1890
+  },
+  "item42": {
+    "name": "Matching Reds",
+    "Accessory": [
+      "Red Cap × 1",
+      "Brigandine × 1"
+    ],
+    "Required Materials": [
+      "Coeurl Pelt × 3",
+      "Quality Hide × 2",
+      "Dark Magicite × 3"
+    ],
+    "Price (gil)": 2480
+  },
+  "item43": {
+    "name": "Monk’s Garb",
+    "Accessory": [
+      "Headband × 1",
+      "Jujitsu Gi × 1"
+    ],
+    "Required Materials": [
+      "Coeurl Pelt × 4",
+      "Tyrant Hide × 1",
+      "Ice Magicite × 4"
+    ],
+    "Price (gil)": 3180
+  },
+  "item44": {
+    "name": "Alluring Finery",
+    "Accessory": [
+      "Lamia’s Tiara × 1",
+      "Enchanter’s Habit × 1"
+    ],
+    "Required Materials": [
+      "Fine Wool x 3",
+      "Tyrant Hide x 1",
+      "Ice Magicite x 4"
+    ],
+    "Price (gil)": 3180
+  },
+  "item45": {
+    "name": "Golden Garb",
+    "Accessory": [
+      "Gold Helm × 1",
+      "Gold Armor × 1",
+      "Gold Shield × 1"
+    ],
+    "Required Materials": [
+      "Iron Carapace x 3",
+      "Tanned Hide x 2",
+      "Dark Magicite x 3"
+    ],
+    "Price (gil)": 3980
+  },
+  "item46": {
+    "name": "Ninja Garb",
+    "Accessory": [
+      "Black Cowl × 1",
+      "Black Garb × 1"
+    ],
+    "Required Materials": [
+      "Fine Wool × 4",
+      "Tanned Tyrant Hide × 2",
+      "Fire Magicite × 5"
+    ],
+    "Price (gil)": 4800
+  },
+  "item47": {
+    "name": "Burnished Protectives",
+    "Accessory": [
+      "Burgonet × 1",
+      "Shielded Armor × 1",
+      "Ice Shield × 1"
+    ],
+    "Required Materials": [
+      "Wyrm Carapace × 2",
+      "Quality Hide × 2",
+      "Earth Magicite × 4"
+    ],
+    "Price (gil)": 4850
+  },
+  "item48": {
+    "name": "Light, Sturdy Garb",
+    "Accessory": [
+      "Adamant Hat × 1",
+      "Adaman Vest × 1"
+    ],
+    "Required Materials": [
+      "Coeurl Pelt× 6",
+      "Tanned Tyrant Hide × 2",
+      "Storm Magicite × 5"
+    ],
+    "Price (gil)": 5800
+  },
+  "item49": {
+    "name": "Brilliant Shield",
+    "Accessory": [
+      "Venetian Shield × 1"
+    ],
+    "Required Materials": [
+      "Ancient Turtle Shell × 2",
+      "Ring Wyrm Liver × 2",
+      "Undin Halcyon × 1"
+    ],
+    "Price (gil)": 7500
+  },
+  "item50": {
+    "name": "Magepower Helm",
+    "Accessory": [
+      "Magical Power Shishak × 1"
+    ],
+    "Required Materials": [
+      "Charger Barding × 5",
+      "Chimera Head × 2",
+      "Feystone × 1"
+    ],
+    "Price (gil)": 7500
+  },
+  "item51": {
+    "name": "Forbidding Shield",
+    "Accessory": [
+      "Demon Shield × 1"
+    ],
+    "Required Materials": [
+      "Aged Turtle Shell × 2",
+      "Destrier Barding × 8",
+      "Leamonde Halcyon × 1"
+    ],
+    "Price (gil)": 7800
+  },
+  "item52": {
+    "name": "Emboldening Arms",
+    "Accessory": [
+      "Chakra Band × 1",
+      "Power Vest × 1"
+    ],
+    "Required Material": [
+      "Quality Pelt × 6",
+      "Tanned Giantskin × 4",
+      "Fire Crystal × 3"
+    ],
+    "Price (gil)": 7980
+  },
+  "item53": {
+    "name": "Sturdy Battle Gear",
+    "Accessory": [
+      "Maximillian × 1"
+    ],
+    "Required Materials": [
+      "Charger Barding × 4",
+      "Split Armor × 2",
+      "Pisces Gem× 3"
+    ],
+    "Price (gil)": 8000
+  },
+  "item54": {
+    "name": "Platinum Gear",
+    "Accessory": [
+      "Platinum Helm × 1",
+      "Platinum Armor × 1",
+      "Platinum Shield × 1"
+    ],
+    "Required Materials": [
+      "Insect Husk x 2",
+      "Tanned Giantskin x 5",
+      "Storm Magicite x 6"
+    ],
+    "Price (gil)": 9800
+  },
+  "item55": {
+    "name": "Black Vestments",
+    "Accessory": [
+      "Black Mask × 1",
+      "Black Robe × 1"
+    ],
+    "Required Materials": [
+      "Blood Wool × 9",
+      "Prime Tanned Hide × 7",
+      "Dark Crystal × 8"
+    ],
+    "Price (gil)": 12800
+  },
+  "item56": {
+    "name": "White Vestments",
+    "Accessory": [
+      "White Mask × 1",
+      "White Robe × 1"
+    ],
+    "Required Materials": [
+      "Blood Wool× 9",
+      "Beastlord Hide × 7",
+      "Holy Crystal × 8"
+    ],
+    "Price (gil)": 12800
+  },
+  "item57": {
+    "name": "Nature’s Armory",
+    "Accessory": [
+      "Crown of Laurels x 1",
+      "Rubber Suit × 1"
+    ],
+    "Required Materials": [
+      "Prime Pelt × 9",
+      "Forbidden Flesh × 7",
+      "Fire Crystal × 8"
+    ],
+    "Price (gil)": 13800
+  },
+  "item58": {
+    "name": "Gigas Gear",
+    "Accessory": [
+      "Gigas Hat × 1",
+      "Gigas Chestplate x 1"
+    ],
+    "Required Materials": [
+      "Prime Pelt × 8",
+      "Prime Tanned Hide × 7",
+      "Dark Crystal × 7"
+    ],
+    "Price (gil)": 17800
+  },
+  "item59": {
+    "name": "Feathered Boots",
+    "Accessory": [
+      "Winged Boots x 1"
+    ],
+    "Required Materials": [
+      "Arctic Wind x 1"
+    ],
+    "Price (gil)": 300
+  },
+  "item60": {
+    "name": "Ninja Footgear",
+    "Accessory": [
+      "Gillie Boots x 1"
+    ],
+    "Required Materials": [
+      "Slaven Harness × 2"
+    ],
+    "Price (gil)": 400
+  },
+  "item61": {
+    "name": "Shoes of the Dead",
+    "Accessory": [
+      "Quasimodo Boots x 1"
+    ],
+    "Required Materials": [
+      "Zombie Powder × 1",
+      "Destrier Mane × 1"
+    ],
+    "Price (gil)": 450
+  },
+  "item62": {
+    "name": "Back Harness",
+    "Accessory": [
+      "Battle Harness × 1"
+    ],
+    "Required Materials": [
+      "Throat Wol Blood × 1"
+    ],
+    "Price (gil)": 600
+  },
+  "item63": {
+    "name": "Blush of Light",
+    "Accessory": [
+      "Firefly x 1"
+    ],
+    "Required Materials": [
+      "Tomato Stalk × 2",
+      "Magick Lamp × 1",
+      "Snowfly × 1"
+    ],
+    "Price (gil)": 700
+  },
+  "item64": {
+    "name": "Large Gloves",
+    "Accessory": [
+      "Blazer Gloves x 1"
+    ],
+    "Required Materials": [
+      "Bent Staff× 3"
+    ],
+    "Price (gil)": 2000
+  },
+  "item65": {
+    "name": "Wing Cord",
+    "Accessory": [
+      "Pheasant Netsuke × 1"
+    ],
+    "Required Materials": [
+      "Stardust × 2"
+    ],
+    "Price (gil)": 2000
+  },
+  "item66": {
+    "name": "Brawler’s Fetish",
+    "Accessory": [
+      "Amber Armlet x 1"
+    ],
+    "Required Materials": [
+      "Gimble Stalk × 2"
+    ],
+    "Price (gil)": 3000
+  },
+  "item67": {
+    "name": "Gilt Phylactery",
+    "Accessory": [
+      "Golden Amulet x 1"
+    ],
+    "Required Materials": [
+      "Tattered Garment × 1"
+    ],
+    "Price (gil)": 3000
+  },
+  "item68": {
+    "name": "Shell-worked Collar",
+    "Accessory": [
+      "Turtleshell Choker × 1"
+    ],
+    "Required Materials": [
+      "Bomb Shell × 2",
+      "Four-leaf Clover × 2"
+    ],
+    "Price (gil)": 6000
+  },
+  "item69": {
+    "name": "Exquisite Ring",
+    "Accessory": [
+      "Opal Ring × 1"
+    ],
+    "Required Materials": [
+      "Frogspawn × 2"
+    ],
+    "Price (gil)": 7800
+  },
+  "item70": {
+    "name": "Chain-link Belt",
+    "Accessory": [
+      "Bubble Belt × 1"
+    ],
+    "Required Materials": [
+      "Battlewyrm Carapace × 2",
+      "Adamantite × 1"
+    ],
+    "Price (gil)": 17820
+  },
+  "item71": {
+    "name": "Wind Walker",
+    "Accessory": [
+      "Hermes Sandals × 1"
+    ],
+    "Required Materials": [
+      "Gysahl Green x33",
+      "Arcana × 15"
+    ],
+    "Price (gil)": 18000
+  },
+  "item72": {
+    "name": "Comfy Headgear",
+    "Accessory": [
+      "Cat-ear Hood × 1"
+    ],
+    "Required Materials": [
+      "White Incense × 2",
+      "Einherjarium × 2",
+      "Virgo Gem x 7"
+    ],
+    "Price (gil)": 25000
+  },
+  "item73": {
+    "name": "Cursed Necklace",
+    "Accessory": [
+      "Nihopalaoa x 1"
+    ],
+    "Required Materials": [
+      "Blood-stained Necklace × 3",
+      "Death’s-Head × 2",
+      "Leo Gem × 3"
+    ],
+    "Price (gil)": 28000
+  }
+}
