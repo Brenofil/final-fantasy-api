@@ -79,7 +79,6 @@ export class BazaarController {
     //@param.filter(Item) filter?: Filter<Item>,
   ): Promise<any> {
     let items = await this.itemRepository.findItems();
-    console.log(items);
     return items;
   }
 
