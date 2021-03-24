@@ -3,24 +3,17 @@ import {
   CountSchema,
   FilterExcludingWhere,
   repository,
-  Where
+  Where,
 } from '@loopback/repository';
-import {
-  get,
-  getModelSchemaRef,
-  param,
-
-  post
-} from '@loopback/rest';
+import {get, getModelSchemaRef, param, post} from '@loopback/rest';
 import {Item} from '../models';
 import {ItemRepository} from '../repositories';
 
 export class BazaarController {
-
   constructor(
     @repository(ItemRepository)
     public itemRepository: ItemRepository,
-  ) { }
+  ) {}
 
   @post('/bazaarItems', {
     responses: {
@@ -31,7 +24,6 @@ export class BazaarController {
     },
   })
   async createItems(): Promise<any> {
-
     let data = require('../../public/weapons.json');
 
     for (let current of data.items) {
@@ -54,9 +46,7 @@ export class BazaarController {
       },
     },
   })
-  async count(
-    @param.where(Item) where?: Where<Item>,
-  ): Promise<Count> {
+  async count(@param.where(Item) where?: Where<Item>): Promise<Count> {
     return this.itemRepository.count(where);
   }
 
@@ -75,14 +65,11 @@ export class BazaarController {
       },
     },
   })
-  async find(
-    //@param.filter(Item) filter?: Filter<Item>,
-  ): Promise<any> {
+  async find(): //@param.filter(Item) filter?: Filter<Item>,
+  Promise<any> {
     let items = await this.itemRepository.findItems();
     return items;
   }
-
-
 
   @get('/items/{id}', {
     responses: {
@@ -98,9 +85,8 @@ export class BazaarController {
   })
   async findById(
     @param.path.string('id') id: string,
-    @param.filter(Item, {exclude: 'where'}) filter?: FilterExcludingWhere<Item>
+    @param.filter(Item, {exclude: 'where'}) filter?: FilterExcludingWhere<Item>,
   ): Promise<Item> {
     return this.itemRepository.findById(id, filter);
   }
 }
-
