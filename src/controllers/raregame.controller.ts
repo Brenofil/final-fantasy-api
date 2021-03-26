@@ -4,13 +4,9 @@ import {
   Filter,
   FilterExcludingWhere,
   repository,
-  Where
+  Where,
 } from '@loopback/repository';
-import {
-  get,
-  getModelSchemaRef, param,
-  post
-} from '@loopback/rest';
+import {get, getModelSchemaRef, param, post} from '@loopback/rest';
 import {Raregame} from '../models';
 import {RaregameRepository} from '../repositories';
 
@@ -18,7 +14,7 @@ export class RaregameController {
   constructor(
     @repository(RaregameRepository)
     public raregameRepository: RaregameRepository,
-  ) { }
+  ) {}
 
   @post('/rareGames', {
     responses: {
@@ -29,7 +25,6 @@ export class RaregameController {
     },
   })
   async createRareGames(): Promise<any> {
-
     let data = require('../../public/raregames.json');
 
     for (let current of data.raregames) {
@@ -37,13 +32,12 @@ export class RaregameController {
 
       raregame.number = current.number;
       raregame.name = current.name;
-      raregame.rank = current.rank
+      raregame.rank = current.rank;
       raregame.location = current.location;
       raregame.condition = current.condition;
 
       this.raregameRepository.create(raregame);
     }
-
   }
 
   @get('/raregames/count', {
@@ -54,9 +48,7 @@ export class RaregameController {
       },
     },
   })
-  async count(
-    @param.where(Raregame) where?: Where<Raregame>,
-  ): Promise<Count> {
+  async count(@param.where(Raregame) where?: Where<Raregame>): Promise<Count> {
     return this.raregameRepository.count(where);
   }
 
@@ -95,7 +87,8 @@ export class RaregameController {
   })
   async findById(
     @param.path.string('id') id: string,
-    @param.filter(Raregame, {exclude: 'where'}) filter?: FilterExcludingWhere<Raregame>
+    @param.filter(Raregame, {exclude: 'where'})
+    filter?: FilterExcludingWhere<Raregame>,
   ): Promise<Raregame> {
     return this.raregameRepository.findById(id, filter);
   }

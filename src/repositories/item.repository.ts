@@ -7,16 +7,12 @@ export class ItemRepository extends DefaultCrudRepository<
   Item,
   typeof Item.prototype.id,
   ItemRelations
-  > {
-
+> {
   async findItems(): Promise<any> {
     return await this.find();
   }
 
-
-  constructor(
-    @inject('datasources.db') dataSource: DbDataSource,
-  ) {
+  constructor(@inject('datasources.db') dataSource: DbDataSource) {
     super(Item, dataSource);
   }
 }

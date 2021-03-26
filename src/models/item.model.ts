@@ -12,6 +12,9 @@ export class Item extends Entity {
   @property({
     type: 'string',
     required: true,
+    where: {
+      order: 'name <ASC|DESC>',
+    },
   })
   name: string;
 
@@ -34,7 +37,6 @@ export class Item extends Entity {
     required: true,
   })
   price: number;
-
 
   constructor(data?: Partial<Item>) {
     super(data);

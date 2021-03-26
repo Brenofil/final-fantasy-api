@@ -1,6 +1,7 @@
 import {
   Count,
   CountSchema,
+  Filter,
   FilterExcludingWhere,
   repository,
   Where,
@@ -65,10 +66,8 @@ export class BazaarController {
       },
     },
   })
-  async find(): //@param.filter(Item) filter?: Filter<Item>,
-  Promise<any> {
-    let items = await this.itemRepository.findItems();
-    return items;
+  async find(@param.filter(Item) filter?: Filter<Item>): Promise<Item[]> {
+    return this.itemRepository.find(filter);
   }
 
   @get('/items/{id}', {
