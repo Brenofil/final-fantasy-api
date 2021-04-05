@@ -38,6 +38,12 @@ export class Item extends Entity {
   })
   price: number;
 
+  @property({
+    type: 'string',
+    required: true,
+  })
+  image_url: string;
+
   constructor(data?: Partial<Item>) {
     super(data);
   }

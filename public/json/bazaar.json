@@ -10,7 +10,8 @@
         "Foul Flesh × 2",
         "Earth Stone × 3"
       ],
-      "price": 1080
+      "price": 1080,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/4f/IronSword-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130704113903"
     },
     {
       "name": "Crimson Blade",
@@ -22,7 +23,8 @@
         "Glass Jewel × 2",
         "Dark Stone × 5"
       ],
-      "price": 4500
+      "price": 4500,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/48/BloodSword-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130703182305"
     },
     {
       "name": "Burning Blade",
@@ -34,7 +36,8 @@
         "Marlboro Vine x 2",
         "Fire Stone x 6"
       ],
-      "price": 4680
+      "price": 4680,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/c/cb/Flametongue-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130704001950"
     },
     {
       "name": "Warped Blade",
@@ -46,7 +49,8 @@
         "Bundle of Feathers × 6",
         "Fire Magicite × 7"
       ],
-      "price": 11250
+      "price": 11250,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/0/0b/DiamondSword-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130703234917"
     },
     {
       "name": "Attenuated Greatsword",
@@ -58,7 +62,8 @@
         "Quality Stone × 4",
         "Holy Crystal × 10"
       ],
-      "price": 14000
+      "price": 14000,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/1/1b/SavetheQueen-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130704180645"
     },
     {
       "name": "The Leering Blade",
@@ -70,7 +75,8 @@
         "Demon Tail × 7",
         "Dark Crystal × 10"
       ],
-      "price": 14800
+      "price": 14800,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/8d/Deathbringer-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130703233806"
     },
     {
       "name": "Darksteel Blade",
@@ -82,7 +88,8 @@
         "Chimera Head × 2",
         "Taurus Gem × 3"
       ],
-      "price": 17800
+      "price": 17800,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/7d/Stoneblade-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130704224609"
     },
     {
       "name": "Well-forged Blade",
@@ -94,7 +101,8 @@
         "Emperor Scales × 2",
         "Lifewick × 3"
       ],
-      "price": 21600
+      "price": 21600,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/45/Durandal-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130703235945"
     },
     {
       "name": "Ultimate Blade",
@@ -106,7 +114,8 @@
         "Death Powder × 2",
         "Adamantite × 2"
       ],
-      "price": 22800
+      "price": 22800,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/b0/UltimaBlade-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130704233211"
     },
     {
       "name": "The Sunflower",
@@ -118,7 +127,8 @@
         "Serpentarius × 3",
         "Empyreal Soul × 3"
       ],
-      "price": 600000
+      "price": 600000,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f8/Tournesol-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130704231523"
     },
     {
       "name": "Dragon Crest",
@@ -130,7 +140,8 @@
         "Omega Badge × 1",
         "Lu Shang’s Badge × 1"
       ],
-      "price": 65535
+      "price": 65535,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/bf/WyrmheroBlade-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130705010505"
     },
     {
       "name": "Jag-tooth Ninja Sword",
@@ -142,7 +153,8 @@
         "Festering Flesh × 4",
         "Dark Magicite × 5"
       ],
-      "price": 9000
+      "price": 9000,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/fe/Kagenui-ffxii.png/revision/latest?cb=20130704114719"
     },
     {
       "name": "Samurai’s Katana",
@@ -154,7 +166,8 @@
         "Screamroot × 7",
         "Water Crystal × 9"
       ],
-      "price": 13800
+      "price": 13800,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/9a/AmenoMurakumo-ffxii.png/revision/latest?cb=20130703134809"
     },
     {
       "name": "Serpent Blade",
@@ -166,7 +179,8 @@
         "Sickle-Blade × 2",
         "Coeurl Whisker × 2"
       ],
-      "price": 15200
+      "price": 15200,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/7a/Orochi-ffxii.png/revision/latest?cb=20130704162411"
     },
     {
       "name": "Master-crafted Blade",
@@ -178,7 +192,8 @@
         "Orichalcum × 3",
         "Mallet × 2"
       ],
-      "price": 35000
+      "price": 35000,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/dc/Masamune-ffxii.png/revision/latest?cb=20130704140858"
     },
     {
       "name": "Light Spear",
@@ -190,7 +205,8 @@
         "Foul Flesh × 2",
         "Wind Stone × 3"
       ],
-      "price": 1980
+      "price": 1980,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/41/Javelin-ffxii.png/revision/latest?cb=20130704114414"
     },
     {
       "name": "Forked Spear",
@@ -202,7 +218,8 @@
         "Maggoty Flesh × 5",
         "Wind Magicite x 6"
       ],
-      "price": 11250
+      "price": 11250,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f0/Trident-ffxii.png/revision/latest?cb=20130704232848"
     },
     {
       "name": "Engraved Spear",
@@ -214,7 +231,8 @@
         "Broken Spear × 2",
         "Mystletainn × 2"
       ],
-      "price": 15300
+      "price": 15300,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/94/Gungnir-ffxii.png/revision/latest?cb=20130704054925"
     },
     {
       "name": "Wooden Pole",
@@ -226,7 +244,8 @@
         "Demon Eyeball x 3",
         "Earth Stone x 4"
       ],
-      "price": 1800
+      "price": 1800,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/49/CypressPole-ffxii.png/revision/latest?cb=20130703232002"
     },
     {
       "name": "Iron-forged Pole",
@@ -238,7 +257,8 @@
         "Demon Eyeball × 3",
         "Fire Magicite × 4"
       ],
-      "price": 4780
+      "price": 4780,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/9a/IronPole-ffxii.png/revision/latest?cb=20130704063429"
     },
     {
       "name": "Elegant Pole",
@@ -250,7 +270,8 @@
         "Demon Feather × 6",
         "Wind Crystal × 7"
       ],
-      "price": 12150
+      "price": 12150,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/5/5f/IvoryPole-ffxii.png/revision/latest?cb=20130704114158"
     },
     {
       "name": "Whisker of the Beast",
@@ -262,7 +283,8 @@
         "Corpse Fly × 3",
         "Mythril × 3"
       ],
-      "price": 60000
+      "price": 60000,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/3/36/WhaleWhisker-ffxii.png/revision/latest?cb=20130705010040"
     },
     {
       "name": "Double-bladed Knife",
@@ -274,7 +296,8 @@
         "Windslicer Pinion × 5",
         "Wind Crystal × 9"
       ],
-      "price": 13800
+      "price": 13800,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/da/ZwillCrossblade-ffxii.png/revision/latest?cb=20130705012928"
     },
     {
       "name": "Mystic Staff",
@@ -286,7 +309,8 @@
         "Quality Lumber x 4",
         "Storm Crystal x 7"
       ],
-      "price": 7200
+      "price": 7200,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/d9/CloudStaff-ffxii.png/revision/latest?cb=20130703191255"
     },
     {
       "name": "Bow & Bodkin",
@@ -298,7 +322,8 @@
         "Rat Pelt x 2",
         "Dark Stone x 2"
       ],
-      "price": 600
+      "price": 600,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/b7/Shortbow-ffxii.png/revision/latest?cb=20130704222517"
     },
     {
       "name": "Arrows Alight",
@@ -309,7 +334,8 @@
         "Crooked Fang x 2",
         "Fire Stone x 4"
       ],
-      "price": 3800
+      "price": 3800,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/1/1c/Longbow-ffxii.png/revision/latest?cb=20130704120543"
     },
     {
       "name": "Hollow-shaft Arrows",
@@ -321,7 +347,8 @@
         "Yellow Liquid x1",
         "Water Magicite × 3"
       ],
-      "price": 6280
+      "price": 6280,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/5/5b/LoxleyBow-ffxii.png/revision/latest?cb=20130704135906"
     },
     {
       "name": "Arrows of the Moon Goddess",
@@ -333,7 +360,8 @@
         "Vampyr Fang × 2",
         "Dorsal Fin × 2"
       ],
-      "price": 15800
+      "price": 15800,
+      "image_url": "https://finalfantasy.fandom.com/wiki/Artemis_Bow_(Final_Fantasy_XII)"
     },
     {
       "name": "Permafrost Bow & Quiver",
@@ -345,7 +373,8 @@
         "Spiral Incisor x 4",
         "Ice Crystal x 7"
       ],
-      "price": 17200
+      "price": 17200,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f6/PerseusBow-ffxii.png/revision/latest?cb=20130704170441"
     },
     {
       "name": "Silver Bow",
@@ -357,7 +386,8 @@
         "Moon Ring x 3",
         "Sagittarius Gem x 4"
       ],
-      "price": 60000
+      "price": 60000,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/87/SagittariusBow-ffxii.png/revision/latest?cb=20130704175655"
     },
     {
       "name": "Old Books",
@@ -367,7 +397,8 @@
       "required": [
         "Finish the Thextera Mob Hunt, then talk to Gastly in the Muthru Bazaar"
       ],
-      "price": 18000
+      "price": 18000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Old Books",
@@ -377,7 +408,8 @@
       "required": [
         "Talk to any weapons shop clerk 30 times"
       ],
-      "price": 19000
+      "price": 19000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Old Books",
@@ -387,7 +419,8 @@
       "required": [
         "Finish the Rogue Tomato Mob Hunt, then check the Mob Hunt board 20 times"
       ],
-      "price": 20000
+      "price": 20000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Old Books",
@@ -397,7 +430,8 @@
       "required": [
         "Talk to any magic shop clerk 25 times"
       ],
-      "price": 21000
+      "price": 21000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Old Books",
@@ -407,7 +441,8 @@
       "required": [
         "Finish the Rogue Tomato Mob Hunt, then check the Mob Hunt board 40 times"
       ],
-      "price": 22000
+      "price": 22000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Old Books",
@@ -417,7 +452,8 @@
       "required": [
         "Talk to any armor shop clerk 15 times"
       ],
-      "price": 22000
+      "price": 22000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Old Books",
@@ -427,7 +463,8 @@
       "required": [
         "Talk to any shop clerk 100 times"
       ],
-      "price": 25000
+      "price": 25000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Morbid Urn",
@@ -439,7 +476,8 @@
         "Phobos Glaze × 1",
         "Deimos clay × 1"
       ],
-      "price": 2500000
+      "price": 2500000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Unassuming Surcoat",
@@ -450,7 +488,8 @@
         "Wolf Pelt × 2",
         "Earth Stone × 1"
       ],
-      "price": 180
+      "price": 180,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Gilt Shield",
@@ -461,7 +500,8 @@
         "Molting × 3",
         "Fire Stone × 3"
       ],
-      "price": 250
+      "price": 250,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/97/Buckler-ffxii.png/revision/latest?cb=20130627032353"
     },
     {
       "name": "Assorted Leathers",
@@ -474,7 +514,8 @@
         "Tanned Hide × 1",
         "Dark Stone × 2"
       ],
-      "price": 300
+      "price": 300,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Traveler’s Garb",
@@ -487,7 +528,8 @@
         "Tanned Hide x 2",
         "Water Stone x 5"
       ],
-      "price": 1890
+      "price": 1890,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Matching Reds",
@@ -500,7 +542,8 @@
         "Quality Hide × 2",
         "Dark Magicite × 3"
       ],
-      "price": 2480
+      "price": 2480,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Monk’s Garb",
@@ -513,7 +556,8 @@
         "Tyrant Hide × 1",
         "Ice Magicite × 4"
       ],
-      "price": 3180
+      "price": 3180,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Alluring Finery",
@@ -526,7 +570,8 @@
         "Tyrant Hide x 1",
         "Ice Magicite x 4"
       ],
-      "price": 3180
+      "price": 3180,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Golden Garb",
@@ -540,7 +585,8 @@
         "Tanned Hide x 2",
         "Dark Magicite x 3"
       ],
-      "price": 3980
+      "price": 3980,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/99/GoldenShield-ffxii.png/revision/latest?cb=20130627031353"
     },
     {
       "name": "Ninja Garb",
@@ -553,7 +599,8 @@
         "Tanned Tyrant Hide × 2",
         "Fire Magicite × 5"
       ],
-      "price": 4800
+      "price": 4800,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Burnished Protectives",
@@ -567,7 +614,8 @@
         "Quality Hide × 2",
         "Earth Magicite × 4"
       ],
-      "price": 4850
+      "price": 4850,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/5/58/IceShield-ffxii.png/revision/latest?cb=20130627031250"
     },
     {
       "name": "Light, Sturdy Garb",
@@ -580,7 +628,8 @@
         "Tanned Tyrant Hide × 2",
         "Storm Magicite × 5"
       ],
-      "price": 5800
+      "price": 5800,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Brilliant Shield",
@@ -592,7 +641,8 @@
         "Ring Wyrm Liver × 2",
         "Undin Halcyon × 1"
       ],
-      "price": 7500
+      "price": 7500,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/6/6b/VenetianShield-ffxii.png/revision/latest?cb=20130627030614"
     },
     {
       "name": "Magepower Helm",
@@ -604,7 +654,8 @@
         "Chimera Head × 2",
         "Feystone × 1"
       ],
-      "price": 7500
+      "price": 7500,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Forbidding Shield",
@@ -616,7 +667,8 @@
         "Destrier Barding × 8",
         "Leamonde Halcyon × 1"
       ],
-      "price": 7800
+      "price": 7800,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/73/DemonShield-ffxii.png/revision/latest?cb=20130627032143"
     },
     {
       "name": "Emboldening Arms",
@@ -629,7 +681,8 @@
         "Tanned Giantskin × 4",
         "Fire Crystal × 3"
       ],
-      "price": 7980
+      "price": 7980,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Sturdy Battle Gear",
@@ -641,7 +694,8 @@
         "Split Armor × 2",
         "Pisces Gem× 3"
       ],
-      "price": 8000
+      "price": 8000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Platinum Gear",
@@ -655,7 +709,8 @@
         "Tanned Giantskin x 5",
         "Storm Magicite x 6"
       ],
-      "price": 9800
+      "price": 9800,
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/4f/PlatinumShield-ffxii.png/revision/latest?cb=20130627031012"
     },
     {
       "name": "Black Vestments",
@@ -668,7 +723,8 @@
         "Prime Tanned Hide × 7",
         "Dark Crystal × 8"
       ],
-      "price": 12800
+      "price": 12800,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "White Vestments",
@@ -681,7 +737,8 @@
         "Beastlord Hide × 7",
         "Holy Crystal × 8"
       ],
-      "price": 12800
+      "price": 12800,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Nature’s Armory",
@@ -694,7 +751,8 @@
         "Forbidden Flesh × 7",
         "Fire Crystal × 8"
       ],
-      "price": 13800
+      "price": 13800,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Gigas Gear",
@@ -707,7 +765,8 @@
         "Prime Tanned Hide × 7",
         "Dark Crystal × 7"
       ],
-      "price": 17800
+      "price": 17800,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Feathered Boots",
@@ -717,7 +776,8 @@
       "required": [
         "Arctic Wind x 1"
       ],
-      "price": 300
+      "price": 300,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Ninja Footgear",
@@ -727,7 +787,8 @@
       "required": [
         "Slaven Harness × 2"
       ],
-      "price": 400
+      "price": 400,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Shoes of the Dead",
@@ -738,7 +799,8 @@
         "Zombie Powder × 1",
         "Destrier Mane × 1"
       ],
-      "price": 450
+      "price": 450,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Back Harness",
@@ -748,7 +810,8 @@
       "required": [
         "Throat Wol Blood × 1"
       ],
-      "price": 600
+      "price": 600,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Blush of Light",
@@ -760,7 +823,8 @@
         "Magick Lamp × 1",
         "Snowfly × 1"
       ],
-      "price": 700
+      "price": 700,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Large Gloves",
@@ -770,7 +834,8 @@
       "required": [
         "Bent Staff× 3"
       ],
-      "price": 2000
+      "price": 2000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Wing Cord",
@@ -780,7 +845,8 @@
       "required": [
         "Stardust × 2"
       ],
-      "price": 2000
+      "price": 2000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Brawler’s Fetish",
@@ -790,7 +856,8 @@
       "required": [
         "Gimble Stalk × 2"
       ],
-      "price": 3000
+      "price": 3000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Gilt Phylactery",
@@ -800,7 +867,8 @@
       "required": [
         "Tattered Garment × 1"
       ],
-      "price": 3000
+      "price": 3000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Shell-worked Collar",
@@ -811,7 +879,8 @@
         "Bomb Shell × 2",
         "Four-leaf Clover × 2"
       ],
-      "price": 6000
+      "price": 6000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Exquisite Ring",
@@ -821,7 +890,8 @@
       "required": [
         "Frogspawn × 2"
       ],
-      "price": 7800
+      "price": 7800,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Chain-link Belt",
@@ -832,7 +902,8 @@
         "Battlewyrm Carapace × 2",
         "Adamantite × 1"
       ],
-      "price": 17820
+      "price": 17820,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Wind Walker",
@@ -843,7 +914,8 @@
         "Gysahl Green x33",
         "Arcana × 15"
       ],
-      "price": 18000
+      "price": 18000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Comfy Headgear",
@@ -855,7 +927,8 @@
         "Einherjarium × 2",
         "Virgo Gem x 7"
       ],
-      "price": 25000
+      "price": 25000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     },
     {
       "name": "Cursed Necklace",
@@ -867,7 +940,8 @@
         "Death’s-Head × 2",
         "Leo Gem × 3"
       ],
-      "price": 28000
+      "price": 28000,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tGKXCVcZhzqMnRV6bjy8VAHaJW%26pid%3DApi&f=1"
     }
   ]
 }

@@ -5,560 +5,640 @@
       "name": "Aspidochelon",
       "rank": "5",
       "location": "Cerobi Steppe - Feddik River",
-      "condition": "Hunt Club sidequest accepted. 40% chance of spawning per entry."
+      "condition": "Hunt Club sidequest accepted. 40% chance of spawning per entry.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/d5/XII_adamantitan_render.png/revision/latest/scale-to-width-down/350?cb=20120721212114"
     },
     {
       "number": "2",
       "name": "Thalassinon",
       "rank": "4",
       "location": "Phon Coast - The Vaddu Strand",
-      "condition": "Hunt Club sidequest accepted. The player must wait at the highest point for ten seconds."
+      "condition": "Hunt Club sidequest accepted. The player must wait at the highest point for ten seconds.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e5/Thalassinon_FFXII.jpg/revision/latest/scale-to-width-down/297?cb=20070703140129"
     },
     {
       "number": "3",
       "name": "Greeden",
       "rank": "3",
       "location": "Dalmasca Estersand - Bank of the Nebra",
-      "condition": "The player must stay in the Bank of the Nebra area for three minutes without killing any cactoids."
+      "condition": "The player must stay in the Bank of the Nebra area for three minutes without killing any cactoids.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/c/c6/WoolyGator-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043428"
     },
     {
       "number": "4",
       "name": "Bull Croc",
       "rank": "5",
       "location": "Ozmone Plain - The Shred",
-      "condition": "20% chance of spawning per entry."
+      "condition": "20% chance of spawning per entry.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/a/ad/FeralCroc-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043351"
     },
     {
       "number": "5",
       "name": "Gavial",
       "rank": "4",
       "location": "Garamsythe Waterway - No. 10 Channel",
-      "condition": "Hunt Club sidequest accepted. The player must move to the lower westernmost part and wait."
+      "condition": "Hunt Club sidequest accepted. The player must move to the lower westernmost part and wait.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/26/Gavial-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130629140309"
     },
     {
       "number": "6",
       "name": "Wary Wolf",
       "rank": "5",
       "location": "Mosphoran Highwaste - Summit Path",
-      "condition": "7% chance of spawning instead of a Worgen."
+      "condition": "7% chance of spawning instead of a Worgen.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/6/68/Wolf-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043428"
     },
     {
       "number": "7",
       "name": "Kaiser Wolf",
       "rank": "3",
       "location": "Dalmasca Westersand - Corridor of Sand",
-      "condition": "Hunt Club sidequest accepted. The player must defeat Lindbur Wolf in the Shimmering Horizons area, and after it has a 40% chance of spawning in the Corridor of Sand area."
+      "condition": "Hunt Club sidequest accepted. The player must defeat Lindbur Wolf in the Shimmering Horizons area, and after it has a 40% chance of spawning in the Corridor of Sand area.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/c/c7/XII_silver_lobo_render.png/revision/latest/scale-to-width-down/350?cb=20130711162249"
     },
     {
       "number": "8",
       "name": "Lindbur Wolf",
       "rank": "2",
       "location": "Dalmasca Westersand - Shimmering Horizons",
-      "condition": "The player must defeat 20 Wolves in the Dalmasca Westersand."
+      "condition": "The player must defeat 20 Wolves in the Dalmasca Westersand.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/2d/Worgen-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162536"
     },
     {
       "number": "9",
       "name": "Dreadguard",
       "rank": "5",
       "location": "Feywood - Walk of Dancing Shadow",
-      "condition": "Hunt Club sidequest accepted. It has a 40% chance of spawning instead of a Mirrorknight."
+      "condition": "Hunt Club sidequest accepted. It has a 40% chance of spawning instead of a Mirrorknight.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e0/Mirrorknight-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043323"
     },
     {
       "number": "10",
       "name": "Crypt Bunny",
       "rank": "3",
       "location": "Feywood - Walk of Stolen Truths",
-      "condition": "The player must defeat all Tartaruses and 6 Cerberuses in the Walk of Stolen Truths area. Afterward, Crypt Bunny has a 20% chance of spawning."
+      "condition": "The player must defeat all Tartaruses and 6 Cerberuses in the Walk of Stolen Truths area. Afterward, Crypt Bunny has a 20% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/8c/GizaRabbit-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043351"
     },
     {
       "number": "11",
       "name": "Spee",
       "rank": "5",
       "location": "Salikawood - Sun-dappled Path",
-      "condition": "15% chance of spawning after defeating a Wyrdhare."
+      "condition": "15% chance of spawning after defeating a Wyrdhare.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/6/61/Spee-ffxii.png/revision/latest/scale-to-width-down/330?cb=20130711162613"
     },
     {
       "number": "12",
       "name": "Rain Dancer",
       "rank": "5",
       "location": "Giza Plains - Starfall Field, Warrior's Wash, Toam Hills",
-      "condition": "20% chance of spawning during the Rains."
+      "condition": "20% chance of spawning during the Rains.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/9a/Danbania-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162455"
     },
     {
       "number": "13",
       "name": "Razorfin",
       "rank": "5",
       "location": "Garamsythe Waterway - North Spur Sluiceway",
-      "condition": "10% chance of spawning instead of a Ichthon."
+      "condition": "10% chance of spawning instead of a Ichthon.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/ec/Piranha-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162603"
     },
     {
       "number": "14",
       "name": "Apsara",
       "rank": "2",
       "location": "Phon Coast - The Mauleia Strand",
-      "condition": "The player must defeat 10 Piranhas in the Phon Coast."
+      "condition": "The player must defeat 10 Piranhas in the Phon Coast.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/5/5f/Focalor-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162524"
     },
     {
       "number": "15",
       "name": "Rageclaw",
       "rank": "3",
       "location": "Salikawood - Piebald Path",
-      "condition": "Hunt Club sidequest accepted. The player must not defeat any enemies in the Salikawood and wait sixty seconds."
+      "condition": "Hunt Club sidequest accepted. The player must not defeat any enemies in the Salikawood and wait sixty seconds.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/dc/ScytheMantis-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043430"
     },
     {
       "number": "16",
       "name": "Biding Mantis",
       "rank": "4",
       "location": "Golmore Jungle - The Needlebrake",
-      "condition": "Hunt Club sidequest accepted. Game timer must be between :30 and :59."
+      "condition": "Hunt Club sidequest accepted. Game timer must be between :30 and :59.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/5/58/PreyingMantis-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043428"
     },
     {
       "number": "17",
       "name": "Wood Toad",
       "rank": "5",
       "location": "Salikawood - Corridor of Ages",
-      "condition": "20% chance of spawning."
+      "condition": "20% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/5/50/Iguion-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043353"
     },
     {
       "number": "18",
       "name": "Tarasque",
       "rank": "3",
       "location": "Tchita Uplands - Garden of Life's Circle",
-      "condition": "The player must build a chain of 22 Serpents or Malboro Overkings."
+      "condition": "The player must build a chain of 22 Serpents or Malboro Overkings.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/3/3f/Lizard-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043322"
     },
     {
       "number": "19",
       "name": "Grimalkin",
       "rank": "5",
       "location": "Tchita Uplands - Uazcuff Hills",
-      "condition": "Hunt Club sidequest accepted. 10% chance of spawning instead of a Coeurl."
+      "condition": "Hunt Club sidequest accepted. 10% chance of spawning instead of a Coeurl.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/3/37/Grimalkin_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901094106"
     },
     {
       "number": "20",
       "name": "Nekhbet",
       "rank": "5",
       "location": "Dalmasca Estersand - Sand-swept Naze",
-      "condition": "20% chance of spawning after defeating a Cockatrice."
+      "condition": "20% chance of spawning after defeating a Cockatrice.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/c/c8/XII_cockatrice_render.png/revision/latest/scale-to-width-down/350?cb=20130629154422"
     },
     {
       "number": "21",
       "name": "Glaring Eye",
       "rank": "5",
       "location": "Henne Mines",
-      "condition": "10% chance of spawning after defeating a Hecteyes."
+      "condition": "10% chance of spawning after defeating a Hecteyes.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/0/02/Necrophobe-ffxii.png/revision/latest/scale-to-width-down/332?cb=20130629140621"
     },
     {
       "number": "22",
       "name": "Cultsworn Lich",
       "rank": "5",
       "location": "Tomb of Raithwall - Southfall Passage",
-      "condition": "20% chance of appearing through the Lich's Divide ability."
+      "condition": "20% chance of appearing through the Lich's Divide ability.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/6/6e/Lich-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162527"
     },
     {
       "number": "23",
       "name": "Evil Spirit",
       "rank": "5",
       "location": "The Great Crystal",
-      "condition": "5% chance of spawning instead of a Forbidden."
+      "condition": "5% chance of spawning instead of a Forbidden.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/85/Necrofiend-ffxii.png/revision/latest/scale-to-width-down/288?cb=20130629140321"
     },
     {
       "number": "24",
       "name": "Juggernaut",
       "rank": "4",
       "location": "Feywood - White Magick's Embrace",
-      "condition": "Game timer must be between :00 and :10 minutes."
+      "condition": "Game timer must be between :00 and :10 minutes.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/94/Juggernaut-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162527"
     },
     {
       "number": "25",
       "name": "Molen",
       "rank": "4",
       "location": "Zertinan Caverns - Hourglass Basin",
-      "condition": "The player must move into the northernmost part of the area accessible only via hidden passage and wait."
+      "condition": "The player must move into the northernmost part of the area accessible only via hidden passage and wait.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/28/Molen_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901095132"
     },
     {
       "number": "26",
       "name": "Tower",
       "rank": "5",
       "location": "Pharos - Third Ascent - Spire Ravel - 2nd Flight",
-      "condition": "20% chance of spawning."
+      "condition": "20% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/2a/Tower_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901100819"
     },
     {
       "number": "27",
       "name": "Grey Molter",
       "rank": "4",
       "location": "Mosphoran Highwaste - Empyrean Way",
-      "condition": "Game's timer must be between :10 and :20 minutes."
+      "condition": "Game's timer must be between :10 and :20 minutes.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/1/10/GreyMolter_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901100948"
     },
     {
       "number": "28",
       "name": "Midgardsormr",
       "rank": "5",
       "location": "Golmore Jungle - Paths of Chained Light",
-      "condition": "20% chance of spawning."
+      "condition": "20% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/d2/XiiMidgardsormr.jpg/revision/latest/scale-to-width-down/350?cb=20120901101053"
     },
     {
       "number": "29",
       "name": "Nazarnir",
       "rank": "5",
       "location": "Giza Plains - Starfall Field (Dry)",
-      "condition": "Hunt Club sidequest accepted. 40% chance of spawning instead of a Sleipnir."
+      "condition": "Hunt Club sidequest accepted. 40% chance of spawning instead of a Sleipnir.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/5/52/Nazarnir-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043324"
     },
     {
       "number": "30",
       "name": "Victanir",
       "rank": "5",
       "location": "Nam-Yensa Sandsea - Yellow Sands",
-      "condition": "Hunt Club sidequest accepted. 40% chance of spawning."
+      "condition": "Hunt Club sidequest accepted. 40% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/ee/Shadonir-ffxii.png/revision/latest/scale-to-width-down/294?cb=20130713050941"
     },
     {
       "number": "31",
       "name": "Gemhorn",
       "rank": "2",
       "location": "Lhusu Mines - Site 11",
-      "condition": "The player must defeat all enemies in Site 11."
+      "condition": "The player must defeat all enemies in Site 11.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/1/1c/Gemhorn-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162525"
     },
     {
       "number": "32",
       "name": "Luxollid",
       "rank": "5",
       "location": "Pharos - Subterra - Umbra - South",
-      "condition": "The player must defeat Vagrant Soul."
+      "condition": "The player must defeat Vagrant Soul.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e0/Luxollid_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901101606"
     },
     {
       "number": "33",
       "name": "Vagrant Soul",
       "rank": "5",
       "location": "Pharos - Subterra - Abyssal - North",
-      "condition": "After Shadowseer is defeated, 25% chance of spawning."
+      "condition": "After Shadowseer is defeated, 25% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/29/VagrantSoul_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901101738"
     },
     {
       "number": "34",
       "name": "Imdugud",
       "rank": "4",
       "location": "Nam-Yensa Sandsea - Withering Shores",
-      "condition": "The player must defeat all Bagolies in the Withering Shores area, then move onto center of the circular platform and wait."
+      "condition": "The player must defeat all Bagolies in the Withering Shores area, then move onto center of the circular platform and wait.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/ee/Imdugud_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901101837"
     },
     {
       "number": "35",
       "name": "Bull Chocobo",
       "rank": "5",
       "location": "Ogir-Yensa Sandsea - South Tank Approach",
-      "condition": "Hunt Club sidequest accepted. 40% chance of spawning."
+      "condition": "Hunt Club sidequest accepted. 40% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/3/34/Bull_Chocobo_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901102048"
     },
     {
       "number": "36",
       "name": "Skullash",
       "rank": "5",
       "location": "Phon Coast - Cape Tialan",
-      "condition": "Hunt Club sidequest accepted. 40% chance of spawning."
+      "condition": "Hunt Club sidequest accepted. 40% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/a/ab/Skullash-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130629140625"
     },
     {
       "number": "37",
       "name": "Myath",
       "rank": "1",
       "location": "Stilshrine of Miriam - Ward of Velitation",
-      "condition": "Hunt Club sidequest accepted. The player must defeat 3 Dragon Aevises in the Ward of Velitation area, then exit and reenter."
+      "condition": "Hunt Club sidequest accepted. The player must defeat 3 Dragon Aevises in the Ward of Velitation area, then exit and reenter.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/77/Myath_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901102351"
     },
     {
       "number": "38",
       "name": "Helvinek",
       "rank": "2",
       "location": "Necrohol of Nabudis",
-      "condition": "The player must defeat 6 Oversouls in the Necrohol of Nabudis."
+      "condition": "The player must defeat 6 Oversouls in the Necrohol of Nabudis.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e7/XII_darkmare_render.png/revision/latest/scale-to-width-down/350?cb=20120721182803"
     },
     {
       "number": "39",
       "name": "Pallicant",
       "rank": "2",
       "location": "Ridorana Cataract - City of Other Days",
-      "condition": "The player must defeat all enemies in the City of Other Days, leave, then reenter."
+      "condition": "The player must defeat all enemies in the City of Other Days, leave, then reenter.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/5/52/Mallicant-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162527"
     },
     {
       "number": "40",
       "name": "Phyllo",
       "rank": "5",
       "location": "Golmore Jungle - The Branchway",
-      "condition": "20% chance of spawning."
+      "condition": "20% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/d5/Phyllo-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130629140624"
     },
     {
       "number": "41",
       "name": "Aerieel",
       "rank": "5",
       "location": "Lhusu Mines - Oltam Span",
-      "condition": "20% chance of spawning."
+      "condition": "20% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/90/Vampyr-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043437"
     },
     {
       "number": "42",
       "name": "Anubys",
       "rank": "5",
       "location": "Sochen Cave Palace - Mirror of the Soul",
-      "condition": "Hunt Club sidequest accepted. The player must enter the Mirror of the Soul via the Falls of Time."
+      "condition": "Hunt Club sidequest accepted. The player must enter the Mirror of the Soul via the Falls of Time.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/1/15/Abysteel-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130629140313"
     },
     {
       "number": "43",
       "name": "Barmuu",
       "rank": "3",
       "location": "Tomb of Raithwall - Royal Passage",
-      "condition": "The player must build a chain of 12."
+      "condition": "The player must build a chain of 12.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/6/60/Facer-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162454"
     },
     {
       "number": "44",
       "name": "Vishno",
       "rank": "2",
       "location": "Pharos - First Ascent - Wellspring Ravel - 4th Flight",
-      "condition": "The player must defeat 10 Deidars in the Pharos."
+      "condition": "The player must defeat 10 Deidars in the Pharos.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/ec/Deidar-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130701111934"
     },
     {
       "number": "45",
       "name": "Etherian",
       "rank": "2",
       "location": "Cerobi Steppe - The Northsward",
-      "condition": "The player must defeat all enemies in The Northsward."
+      "condition": "The player must defeat all enemies in The Northsward.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/3/3b/Etherian_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901105137"
     },
     {
       "number": "46",
       "name": "Melt",
       "rank": "5",
       "location": "Henne Mines - Pithead Junction B",
-      "condition": "Hunt Club sidequest accepted. 50% chance of spawning after flipping the gate switch."
+      "condition": "Hunt Club sidequest accepted. 50% chance of spawning after flipping the gate switch.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/8d/Hecteyes-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043352"
     },
     {
       "number": "47",
       "name": "Cubus",
       "rank": "2",
       "location": "Sochen Cave Palace - Temptation Eluded",
-      "condition": "The player must defeat all Pit Fiends and Wendigos in the Temptation Eluded area."
+      "condition": "The player must defeat all Pit Fiends and Wendigos in the Temptation Eluded area.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/95/Oiling-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162603"
     },
     {
       "number": "48",
       "name": "Pineapple",
       "rank": "5",
       "location": "Ogir-Yensa Sandsea - Platform 1 Refinery",
-      "condition": "20% chance of spawning."
+      "condition": "20% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e2/Pineapple_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901105258"
     },
     {
       "number": "49",
       "name": "Bombshell",
       "rank": "5",
       "location": "Lhusu Mines - Lasche Span",
-      "condition": "20% chance of spawning."
+      "condition": "20% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/6/63/Bombshell-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043150"
     },
     {
       "number": "50",
       "name": "Megabomb",
       "rank": "3",
       "location": "Nam-Yensa Sandsea - Demesne of the Sandqueen",
-      "condition": "The player must build a chain of 21."
+      "condition": "The player must build a chain of 21.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e9/Balloon-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130629140315"
     },
     {
       "number": "51",
       "name": "Matriarch Bomb",
       "rank": "5",
       "location": "Stilshrine of Miriam - Ward of Measure",
-      "condition": "The player must enter secret passage in Cold Distance on right side."
+      "condition": "The player must enter secret passage in Cold Distance on right side.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/5/53/Matriarch_Bomb_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901105632"
     },
     {
       "number": "52",
       "name": "Ripe Rampager",
       "rank": "5",
       "location": "Dalmasca Estersand - Yardang Labyrinth",
-      "condition": "33% chance of spawning per Cactite or Cactoid killed in the Yardang Labyrinth area."
+      "condition": "33% chance of spawning per Cactite or Cactoid killed in the Yardang Labyrinth area.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/c/ca/Mandragora-ffxii.png/revision/latest/scale-to-width-down/321?cb=20130711162528"
     },
     {
       "number": "53",
       "name": "Killbug",
       "rank": "4",
       "location": "Ozmone Plain - The Switchback",
-      "condition": "Hunt Club sidequest accepted. Killbug is found in a huge treasure chest when the game's timer is between :10 and :39 minutes."
+      "condition": "Hunt Club sidequest accepted. Killbug is found in a huge treasure chest when the game's timer is between :10 and :39 minutes.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/78/Mimic-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162601"
     },
     {
       "number": "54",
       "name": "Minibug",
       "rank": "5",
       "location": "Barheim Passage - East-West Bypass",
-      "condition": "20% chance of spawning."
+      "condition": "20% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/c/c6/Minibug-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162602"
     },
     {
       "number": "55",
       "name": "Ithuno",
       "rank": "5",
       "location": "Barheim Passage - Special Op Sector 5",
-      "condition": "20% chance being in a certain treasure chest. It looks different than normal treasures."
+      "condition": "20% chance being in a certain treasure chest. It looks different than normal treasures.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/b5/Mimeo-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130629140319"
     },
     {
       "number": "56",
       "name": "Kris",
       "rank": "5",
       "location": "Tchita Uplands - The Highland",
-      "condition": "Hunt Club sidequest accepted. 40% chance of spawning."
+      "condition": "Hunt Club sidequest accepted. 40% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f8/Malboro-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043323"
     },
     {
       "number": "57",
       "name": "Dheed",
       "rank": "5",
       "location": "Mosphoran Highwaste - Skyreach Ridge",
-      "condition": "Hunt Club sidequest accepted. 40% chance of spawning."
+      "condition": "Hunt Club sidequest accepted. 40% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/9d/Dheed_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901110104"
     },
     {
       "number": "58",
       "name": "Aeros",
       "rank": "2",
       "location": "Ozmone Plain - The Shred",
-      "condition": "The player must defeat Bull Croc."
+      "condition": "The player must defeat Bull Croc.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/87/Aeros_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901110113"
     },
     {
       "number": "59",
       "name": "Terror Tyrant",
       "rank": "5",
       "location": "Dalmasca Estersand - Broken Sands",
-      "condition": "Hunt Club sidequest accepted. 40% chance of spawning instead of a Wild Saurian."
+      "condition": "Hunt Club sidequest accepted. 40% chance of spawning instead of a Wild Saurian.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/0/05/XII_wild_saurian_render.png/revision/latest/scale-to-width-down/350?cb=20130711162258"
     },
     {
       "number": "60",
       "name": "Abelisk",
       "rank": "5",
       "location": "Ridorana Cataract - Echoes from Time's Garden",
-      "condition": "Hunt Club sidequest accepted. 30% chance of spawning."
+      "condition": "Hunt Club sidequest accepted. 30% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/7f/Archaeosaur-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130708043149"
     },
     {
       "number": "61",
       "name": "Dustia",
       "rank": "3",
       "location": "Dalmasca Westersand - Corridor of Sand",
-      "condition": "Party member must have less than 10% HP."
+      "condition": "Party member must have less than 10% HP.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/9b/Oversoul-ffxii.png/revision/latest/scale-to-width-down/332?cb=20150112202459"
     },
     {
       "number": "62",
       "name": "Ishteen",
       "rank": "5",
       "location": "Barheim Passage - East-West Bypass, The Zeviah Span",
-      "condition": "Hunt Club sidequest accepted. Wait."
+      "condition": "Hunt Club sidequest accepted. Wait.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/fb/XII_mors_render.png/revision/latest/scale-to-width-down/323?cb=20130712115152"
     },
     {
       "number": "63",
       "name": "Vorres",
       "rank": "5",
       "location": "Necrohol of Nabudis - Hall of the Ivory Covenant",
-      "condition": "Hunt Club sidequest accepted. The player must lure a Dark Elemental near the Cloister of Reason entrance."
+      "condition": "Hunt Club sidequest accepted. The player must lure a Dark Elemental near the Cloister of Reason entrance.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/93/Gazer-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130629140309"
     },
     {
       "number": "64",
       "name": "Negalmuur",
       "rank": "1",
       "location": "Stilshrine of Miriam - Ward of the Sword-King",
-      "condition": "The player must stay in the Stilshrine of Miriam for thirty minutes and defeat the Darkmare in the Ward of the Sword-King area."
+      "condition": "The player must stay in the Stilshrine of Miriam for thirty minutes and defeat the Darkmare in the Ward of the Sword-King area.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e3/Nightwalker-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130711162602"
     },
     {
       "number": "65",
       "name": "Larva Eater",
       "rank": "1",
       "location": "The Great Crystal",
-      "condition": "The player must defeat all Necrophobes in the area with the Leo Gate Stone, then move between the area with Leo Gate Stone and the Waystone XIV area."
+      "condition": "The player must defeat all Necrophobes in the area with the Leo Gate Stone, then move between the area with Leo Gate Stone and the Waystone XIV area.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/2d/Gargoyle-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130629011148"
     },
     {
       "number": "66",
       "name": "Arioch",
       "rank": "5",
       "location": "Nabreus Deadlands - The Slumbermead",
-      "condition": "Hunt Club sidequest accepted. 40% chance of spawning."
+      "condition": "Hunt Club sidequest accepted. 40% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/7b/GargoyleBaron-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130629011148"
     },
     {
       "number": "67",
       "name": "Fideliant",
       "rank": "5",
       "location": "Dalmasca Westersand - The Midfault",
-      "condition": "20% chance of spawning."
+      "condition": "20% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/5/5e/DarkSkeleton-ffxii.png/revision/latest/scale-to-width-down/152?cb=20130629011132"
     },
     {
       "number": "68",
       "name": "Crystal Knight",
       "rank": "1",
       "location": "The Great Crystal",
-      "condition": "Hunt Club sidequest accepted. The player must move from Way Stone XX to the Sagittarius Gate Switch and back in a clockwise loop."
+      "condition": "Hunt Club sidequest accepted. The player must move from Way Stone XX to the Sagittarius Gate Switch and back in a clockwise loop.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/df/Crusader-ffxii.png/revision/latest/scale-to-width-down/252?cb=20130629011131"
     },
     {
       "number": "69",
       "name": "Grave Lord",
       "rank": "3",
       "location": "Golmore Jungle - The Rustling Chapel",
-      "condition": "The player must build a chain of 21."
+      "condition": "The player must build a chain of 21.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/bc/DarkLord-ffxii.png/revision/latest/scale-to-width-down/189?cb=20130629011132"
     },
     {
       "number": "70",
       "name": "Zombie Lord",
       "rank": "4",
       "location": "The Tomb of Raithwall - Northfall Passage",
-      "condition": "Hunt Club sidequest accepted. Game's timer must be between :00 and :29 minutes."
+      "condition": "Hunt Club sidequest accepted. Game's timer must be between :00 and :29 minutes.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/fb/Forbidden-ffxii.png/revision/latest/scale-to-width-down/210?cb=20130629011148"
     },
     {
       "number": "71",
       "name": "Drowned",
       "rank": "5",
       "location": "Garamsythe Waterway - No.4 Cloaca Spur",
-      "condition": "The player must stay in the Garamsythe Waterway for five minutes."
+      "condition": "The player must stay in the Garamsythe Waterway for five minutes.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/81/Drowned-ffxii.png/revision/latest/scale-to-width-down/202?cb=20130629011149"
     },
     {
       "number": "72",
       "name": "Velelu",
       "rank": "3",
       "location": "Nabreus Deadlands - The Fog Mutters",
-      "condition": "Party member must have less than 20% HP."
+      "condition": "Party member must have less than 20% HP.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/a/a7/Banshee-ffxii.png/revision/latest/scale-to-width-down/202?cb=20130629011130"
     },
     {
       "number": "73",
       "name": "Disma",
       "rank": "5",
       "location": "Lhusu Mines - Site 5; Lhusu Mines - Site 6 South",
-      "condition": "Hunt Club sidequest accepted. 5% chance of spawning instead of a Dark Lord."
+      "condition": "Hunt Club sidequest accepted. 5% chance of spawning instead of a Dark Lord.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/b6/ZombieWarlock-ffxii.png/revision/latest/scale-to-width-down/218?cb=20130629011110"
     },
     {
       "number": "74",
       "name": "Ancbolder",
       "rank": "2",
       "location": "Paramina Rift - Karydine Glacier",
-      "condition": "Hunt Club sidequest accepted. The player must defeat all enemies in the Karydine Glacier."
+      "condition": "Hunt Club sidequest accepted. The player must defeat all enemies in the Karydine Glacier.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/96/Striker-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130629011106"
     },
     {
       "number": "75",
       "name": "Wendice",
       "rank": "3",
       "location": "Sochen Cave Palace - Destiny's March",
-      "condition": "Hunt Club sidequest accepted. The player must defeat 3 Wendigos in the Destiny's March."
+      "condition": "Hunt Club sidequest accepted. The player must defeat 3 Wendigos in the Destiny's March.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/ee/Wendigo-ffxii.png/revision/latest/scale-to-width-down/350?cb=20130629011107"
     },
     {
       "number": "76",
       "name": "Anchag",
       "rank": "2",
       "location": "Paramina Rift - Karydine Glacier",
-      "condition": "The player must defeat all enemies in the Karydine Glacier."
+      "condition": "The player must defeat all enemies in the Karydine Glacier.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e0/XII_dullahan_render.png/revision/latest/scale-to-width-down/260?cb=20120721173330"
     },
     {
       "number": "77",
       "name": "Bluesang",
       "rank": "5",
       "location": "Cerobi Steppe - Crossfield",
-      "condition": "Hunt Club sidequest accepted. 40% chance of spawning."
+      "condition": "Hunt Club sidequest accepted. 40% chance of spawning.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e0/XII_dullahan_render.png/revision/latest/scale-to-width-down/260?cb=20120721173330"
     },
     {
       "number": "78",
       "name": "Avenger",
       "rank": "5",
       "location": "Pharos - Second Ascent - Station of Ascension",
-      "condition": "Hunt Club sidequest accepted. The player must defeat all enemies in the Station of Ascension, then enter the Reach of the Damned, and reenter."
+      "condition": "Hunt Club sidequest accepted. The player must defeat all enemies in the Station of Ascension, then enter the Reach of the Damned, and reenter.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/dc/Avenger_FFXII.jpg/revision/latest/scale-to-width-down/350?cb=20120901111049"
     },
     {
       "number": "79",
       "name": "Alteci",
       "rank": "3",
       "location": "Zertinan Caverns - The Undershore",
-      "condition": "Hunt Club sidequest accepted. The player must build a chain of 12."
+      "condition": "Hunt Club sidequest accepted. The player must build a chain of 12.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/c/c2/XII_behemoth_render.png/revision/latest/scale-to-width-down/350?cb=20120720200905"
     },
     {
       "number": "80",
       "name": "Urutan Exile",
       "rank": "2",
       "location": "Ogir-Yensa Sandsea - Platform 2 Refinery",
-      "condition": "The player must defeat 100 Urutan-Yensa in the Ogir-Yensa Sandsea."
+      "condition": "The player must defeat 100 Urutan-Yensa in the Ogir-Yensa Sandsea.",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/1/1f/UrutanExile-ffxii.png/revision/latest/scale-to-width-down/186?cb=20130629011106"
     }
   ]
 }

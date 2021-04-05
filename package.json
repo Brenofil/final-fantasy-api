@@ -12,6 +12,7 @@
     "node": ">=10.16"
   },
   "scripts": {
+    "start": "node -r source-map-support/register .",
     "build": "lb-tsc",
     "build:watch": "lb-tsc --watch",
     "lint": "npm run prettier:check",
@@ -31,7 +32,6 @@
     "openapi-spec": "node ./dist/openapi-spec",
     "rebuild": "npm run clean && npm run build",
     "prestart": "npm run rebuild",
-    "start": "node -r source-map-support/register .",
     "clean": "lb-clean dist *.tsbuildinfo .eslintcache"
   },
   "repository": {

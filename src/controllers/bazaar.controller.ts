@@ -25,17 +25,19 @@ export class BazaarController {
     },
   })
   async createItems(): Promise<any> {
-    let data = require('../../public/weapons.json');
+    let data = require('../../public/json/bazaar.json');
+    console.log('JSON LIDO');
 
     for (let current of data.items) {
-      var auxItem = new Item();
+      var item = new Item();
 
-      auxItem.name = current.name;
-      auxItem.content = current.content;
-      auxItem.required = current.required;
-      auxItem.price = current.price;
+      item.name = current.name;
+      item.content = current.content;
+      item.required = current.required;
+      item.price = current.price;
+      item.image_url = current.image_url;
 
-      this.itemRepository.create(auxItem);
+      this.itemRepository.create(item);
     }
   }
 

@@ -25,7 +25,7 @@ export class RaregameController {
     },
   })
   async createRareGames(): Promise<any> {
-    let data = require('../../public/raregames.json');
+    let data = require('../../public/json/raregames.json');
 
     for (let current of data.raregames) {
       var raregame = new Raregame();
@@ -35,6 +35,7 @@ export class RaregameController {
       raregame.rank = current.rank;
       raregame.location = current.location;
       raregame.condition = current.condition;
+      raregame.image_url = current.image_url;
 
       this.raregameRepository.create(raregame);
     }

@@ -3,6 +3,13 @@ import {Entity, model, property} from '@loopback/repository';
 @model()
 export class Raregame extends Entity {
   @property({
+    type: 'string',
+    id: true,
+    generated: true,
+  })
+  id?: string;
+
+  @property({
     type: 'number',
     required: true,
   })
@@ -34,11 +41,9 @@ export class Raregame extends Entity {
 
   @property({
     type: 'string',
-    id: true,
-    generated: true,
+    required: true,
   })
-  id?: string;
-
+  image_url: string;
 
   constructor(data?: Partial<Raregame>) {
     super(data);
